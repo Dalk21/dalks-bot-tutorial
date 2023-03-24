@@ -1,0 +1,31 @@
+{
+  "name": "dalks-bot-tutorial",
+  "version": "14.8.0",
+  "description": "Discord.js v14.8.0 bot tutorial source",
+  "main": "bot.js",
+  "scripts": {
+    "bot": "node bot.js",
+    "commands": "node slash-cmds.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dalk21/discord-bot-tutorial.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "bot",
+    "discord_bot",
+    "discord",
+    "bot"
+  ],
+  "author": "github/Dalk21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dalk21/discord-bot-tutorial/issues"
+  },
+  "homepage": "https://github.com/Dalk21/discord-bot-tutorial#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
