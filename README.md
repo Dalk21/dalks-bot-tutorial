@@ -2,8 +2,9 @@
 
 [![Dalk's Bot Tutorial](https://img.shields.io/badge/Discord%20Bot%20Tutorial-Dalk\'s%20Bot%20Tutorial-yellow.svg)](https://github.com/dalk21/dalks-bot-tutorial) 
 [![ISC License](https://img.shields.io/badge/License-ISC-green.svg)](https://www.isc.org/licenses/)
-[![Made for Discord.js v14.8.0](https://img.shields.io/badge/discord\.js-v14.8.0-blue.svg)](https://github.com/discordjs/discord.js/tree/5fcd0e48a8e23b43ea8f7819b0119e326a924f79)
+[![Made for Discord.js v14.11.0](https://img.shields.io/badge/discord\.js-v14.11.0-blue.svg)](https://github.com/discordjs/discord.js/tree/b61e4fb0dcb9e5d43a7626c5a4760f5801e06fae)
 [![Made on 24/03/2023](https://img.shields.io/badge/release%20date-March%2024th,%202023%20\(24/03/2023\)-red.svg)](https://github.com/dalk21/dalks-bot-tutorial) 
+[![Updated on 15/06/2023](https://img.shields.io/badge/last%20updated%20date-June%2015th,%202023%20\(15/06/2023\)-orange.svg)](https://github.com/dalk21/dalks-bot-tutorial) 
 
 This is a basic template for creating a Discord bot using Node.js and
 the discord.js library. This README will provide an overview of the
